@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td style="color:white;">Dicionários</td>
-    <td style="color:lime;">✅ <small></small></td>
+    <td style="color:lime;">✅(v3.7+) <small></small></td>
     <td style="color:lime;">✅</td>
     <td style="color:red;">❌</td>
     <td style="color:lime;">✅</td>
