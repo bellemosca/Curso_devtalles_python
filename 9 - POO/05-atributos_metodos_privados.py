@@ -11,3 +11,5 @@ class Person:
 
 pessoa1 = Person("Isabelle", 33)
 print(pessoa1.name)
+# print(pessoa1.__password)
+# print(pessoa1.__generate_password())
