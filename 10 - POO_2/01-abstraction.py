@@ -6,7 +6,11 @@ class CoffeMaker:
         print("O café esta pronto")
 
     def __boil_water(self):
-        pass
+        print("Fervendo água...")
 
     def __mix(self):
-        pass
+        print("Juntando café e água...")
+
+
+coffe_maker = CoffeMaker()
+coffe_maker.make_coffe
